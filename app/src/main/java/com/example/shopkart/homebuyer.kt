@@ -1,4 +1,4 @@
-package com.example.shopkart.Activities
+package com.example.shopkart
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ShopKart"
         tools:targetApi="31">
         <activity
-master
+
             
 
             android:name=".homebuyer"
@@ -25,7 +25,7 @@ master
         </activity>
         <activity
             android:name=".LoginActivity"
-master
+
             android:exported="true">
 
             <intent-filter>
