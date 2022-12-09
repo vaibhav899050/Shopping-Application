@@ -7,4 +7,11 @@
     <string name="forget_password">Forget Password?</string>
     <string name="item_name">Item Name</string>
     <string name="item_price">Item Price</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="seller">Seller</string>
+    <string name="buyer">Buyer</string>
 </resources>
