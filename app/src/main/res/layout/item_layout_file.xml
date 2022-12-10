@@ -42,6 +42,16 @@
             android:layout_marginStart="15dp"
             android:layout_marginTop="5dp"/>
 
+        <TextView
+            android:id="@+id/item_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/item_rating"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="5dp"/>
+
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>
